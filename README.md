@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto eu na Europa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Minha foto com montagem feita por IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fiz o upload da minha foto e enviei prompts para ajustar a imagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<img width="1080" height="1293" alt="image" src="https://github.com/user-attachments/assets/08f8221e-03cf-4ded-a2db-321069dfbe96" />
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A IA é uma ferramenta incrível que nos faz ganhar tempo, acertividade e ainda proporciona diverção.
 ```
 
 ### Exemplos e Insigths
